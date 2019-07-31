@@ -10,3 +10,5 @@ Esta es una prueba para test_branch desde Atom
 
 Esta es una prueba para test_branch
 >>>>>>> Stashed changes
+
+2da prueba desde Atom
