@@ -12,3 +12,5 @@ Esta es una prueba para test_branch
 >>>>>>> Stashed changes
 
 2da prueba desde Atom
+
+2da Prueba desde Github Desktop
